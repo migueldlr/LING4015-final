@@ -1,1 +1,1 @@
-oops
+This repository contains raw data generated from adversarial examples from [https://github.com/QData/TextAttack](TextAttack) and subsequent automated and human evaluation based on [Xu et al.](https://arxiv.org/abs/2001.07820).
